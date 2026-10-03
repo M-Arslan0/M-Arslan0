@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-Arslan0
 - 👀 I’m interested in **Developing**
-- 🌱 I’m currently learning MERN & LAMP
+- 🌱 I’m MERN & LAMP Developer
 - 💞️ I’m looking to collaborate on with web Developers
 - 📫 How to reach me m.arslan5756@gmail.com or Contact: +92 3171505390
 - 😄 Pronouns: Muhammad Arslan
